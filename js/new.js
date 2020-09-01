@@ -1,0 +1,1 @@
+MotionUI.animateIn('.variation', 'fade-in');
